@@ -1032,6 +1032,9 @@ body {
   margin: 0;
   padding: 0;
 }
+/*.kd-sharing-post-social {
+  visibility: hidden;
+}*/
 /* ===========  8. Preload  =========== */
 #preload {
   top: 0;
